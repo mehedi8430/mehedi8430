@@ -1,41 +1,24 @@
-### Hi there 👋, I'm Mehedi Hasan
-#### Web Developer
-![Web Developer](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/348914060_577195081227610_8329996241255878906_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHGrXnOCdP02IUzebyaF7eRhB9UacT_MguEH1RpxP8yC0t6J06TfEgBBwygDd1N-_W1pVjtfhmFMjbfJuLVl6Wl&_nc_ohc=MvPJbWhmQEEAX8UB2PQ&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfBKTTBES0Wd8-31aiqwZKOngQrlGNMJdy4NweMKOjUPMQ&oe=64749C3A)
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-👋 Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi8430&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi8430" /> </p>
 
-I'm a passionate web developer with a knack for creating engaging and intuitive user experiences. With a solid foundation in front-end development and a keen eye for design, I strive to build high-quality websites that not only look great but also deliver exceptional functionality.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi8430" alt="mehedi8430" /></a> </p>
 
-My repository showcases a collection of my projects, ranging from personal experiments to collaborative endeavors. You'll find a variety of website, responsive websites, and interactive prototypes that demonstrate my skills in HTML, CSS, JavaScript.
+- 🔭 I’m currently working on **ReactPlayIO**
 
-I believe in clean code and adhere to industry best practices, ensuring that my projects are scalable, maintainable, and optimized for performance. I love keeping up with the latest web technologies and constantly seek opportunities to enhance my skills by exploring new libraries, frameworks, and tools.
+- 🌱 I’m currently learning **React JS**
 
-Collaboration is a key aspect of my development journey, and I'm always open to working with other developers and designers to create impactful solutions. Feel free to reach out if you're interested in collaborating or have any questions about my projects.
+- 💬 Ask me about **Html, CSS, Javascript**
 
-Whether you're here to browse, learn, or collaborate, I hope you find something inspiring in my repository. Don't hesitate to connect with me on LinkedIn or reach out via email. Let's build amazing web experiences together!
+- 📫 How to reach me **mehurakib8430@gmail.com**
 
-Happy coding! ✨
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/22568558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22568558" height="30" width="40" /></a>
+</p>
 
-Skills: JS / HTML / CSS
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript 
-- 👯 I’m looking to collaborate on Github 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mehedi8430)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Mehedi Hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rafi Hasan)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mehedi8430)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mehedi8430)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mehedi8430&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mehedi8430)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mehedi8430)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/mehedi8430)  
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi8430&show_icons=true&locale=en&layout=compact" alt="mehedi8430" /></p>
