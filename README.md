@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi8430" alt="mehedi8430" /></a> </p>
 
-- 🔭 I’m currently working on **ReactPlayIO**
+- 🔭 I’m currently working on **Exam taking system web application**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Redux Toolkit**
 
-- 💬 Ask me about **Html, CSS, Javascript**
+- 💬 Ask me about **Html, CSS, Javascript, React, Next.js**
 
 - 📫 How to reach me **mehurakib8430@gmail.com**
 
