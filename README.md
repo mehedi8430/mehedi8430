@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Exam taking system web application**
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Html, CSS, Javascript, React, Next.js**
+- 💬 Ask me about **Html, CSS, Javascript, React, Next.js, Rudux Toolkit, RTK Query**
 
 - 📫 How to reach me **mehurakib8430@gmail.com**
 
