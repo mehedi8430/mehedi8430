@@ -16,11 +16,12 @@
   </ul>
 </div>
 
+### 👨🏻‍💻 &nbsp;About Me
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, next-js, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 
 - ☁️ I've keen interest in cloud full stack development. So,I'm learning **Node-js, database**
 
@@ -33,7 +34,7 @@
 - 📫 My personal portfolio website **[mehedihasanrakib.vercel.app](https://mehedihasanrakib.vercel.app)**
 <!--Intro end-->
 
-
+<br/>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
