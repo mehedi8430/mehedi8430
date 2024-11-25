@@ -1,99 +1,117 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A passionate frontend-focused web developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mehedi8430&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi8430" /> 
-</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehedi8430" alt="mehedi8430" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **Exam Taking System Web Application**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Redux Toolkit, RTK Query**
-
-- 📫 How to reach me **mehurakib8430@gmail.com**
-
-- 📫 My personal portfolio website **[mehedihasanrakib.vercel.app](https://mehedihasanrakib.vercel.app)**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mdmehed84989935" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehed84989935" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22568558" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22568558" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100094921012536" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="22568558" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer" style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mehedi</h1></summary>
+  </ul>
 </div>
 
----
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">A passionate frontend-focused web developer</h2></summary>
+  </ul>
+</div>
 
-<h3 align="left">Most Used Languages:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi8430&show_icons=true&locale=en&layout=compact" alt="mehedi8430" />
+
+<!--Intro start-->
+- 🔭 I’m currently working on **React, next-js, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud full stack development. So,I'm learning **Node-js, database**
+
+- 💬 Ask me about ** react, next-js, mongoDB**
+
+- 📫 Feel free to reach me out **mehurakib8430@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [mehedi0328](https://discordapp.com/users/mehedi0328) my username!
+
+- 📫 My personal portfolio website **[mehedihasanrakib.vercel.app](https://mehedihasanrakib.vercel.app)**
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mehedi8430&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi8430&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mehedi8430&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mehedi8430&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,express,figma,firebase,github,html,js,materialui,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode,bootstrap&perline=14" />
+  </a>
 </p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+   <a href="https://twitter.com/mdmehed84989935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehed84989935" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/22568558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22568558" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100094921012536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="22568558" height="30" width="40" /> </a>
+   <a href="https://discordapp.com/users/mehedi0328" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=mehedi8430&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [mehedi8430](https://github.com/mehedi8430)
+
+Last Edited on: 25/11/2024
