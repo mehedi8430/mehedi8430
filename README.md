@@ -40,7 +40,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; padding: 10px; background-color: #1e1e2f; border-radius: 8px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 15px; padding: 10px; background-color: #1e1e2f; border-radius: 8px;">
   <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; background-color: #2b2b3d; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     <p style="color: #fff; font-size: 12px; margin-top: 5px;">React</p>
