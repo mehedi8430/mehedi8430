@@ -29,6 +29,8 @@
 
 - 📫 Feel free to reach me out **mehurakib8430@gmail.com**
 
+- My Linkedin Profile **[Mehedi Hasan](https://www.linkedin.com/in/mehedi8430)**
+
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [mehedi0328](https://discordapp.com/users/mehedi0328) my username!
 
 - 📫 My personal portfolio website **[mehedihasanrakib.vercel.app](https://mehedihasanrakib.vercel.app)**
@@ -94,6 +96,7 @@
 
 <!--icons and links-->
 <p align="center">
+  <a href="https://www.linkedin.com/in/mehedi8430" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Mehedi Hasan" height="30" width="40" /></a>
    <a href="https://twitter.com/mdmehed84989935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehed84989935" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/22568558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22568558" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100094921012536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="22568558" height="30" width="40" /> </a>
