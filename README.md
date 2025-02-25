@@ -25,13 +25,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Technologies & Tools</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies & Tools:</h2></summary>
   </ul>
 </div>
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Frontend:</h2></summary>
+    <summary><h3 style="display: inline-block">Frontend:</h3></summary>
   </ul>
 </div>
 
@@ -50,7 +50,7 @@
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Backend:</h2></summary>
+    <summary><h3 style="display: inline-block">Backend:</h3></summary>
   </ul>
 </div>
 
@@ -59,7 +59,7 @@
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Databases:</h2></summary>
+    <summary><h3 style="display: inline-block">Databases:</h3></summary>
   </ul>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Tools:</h2></summary>
+    <summary><h3 style="display: inline-block">Tools:</h3></summary>
   </ul>
 </div>
 
