@@ -14,34 +14,20 @@
   <ul align="center">
     <summary>
       <h3 style="display: inline-block">
-        Junior Full-Stack Developer building modern, scalable, and AI-powered web applications.
+        Full-Stack Developer building modern, scalable, and AI-powered web applications.
       </h3>
     </summary>
   </ul>
 </div>
 
 <p align="center">
-  I enjoy turning ideas into real-world products, working across the frontend and backend,
-  and exploring how AI can make applications smarter and more useful.
+  I enjoy turning ideas into real-world products and building applications across the frontend and backend,
+  with a growing focus on AI-powered experiences.
 </p>
 
 <p align="center">
-  Currently focused on building with React, Next.js, Node.js, PostgreSQL, Prisma, and AI technologies.
+  React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma • AI
 </p>
-
----
-
-## 🚀 About Me
-
-* 💻 Full-Stack Engineer with 3+ years of experience building web applications
-* ⚛️ Strong focus on React, Next.js, TypeScript, and modern frontend architecture
-* 🛠️ Building backend services and REST APIs with Node.js and Express
-* 🗄️ Experienced with PostgreSQL, MongoDB, Prisma, and relational/NoSQL database design
-* 🤖 Exploring AI-powered applications, LLM integrations, and streaming AI experiences
-* 🧩 Interested in scalable architecture, clean code, and maintainable systems
-* 🧠 Strengthening computer science fundamentals through DSA and problem solving
-* 🚀 Enjoy building end-to-end products from idea to deployment
-* 🌱 Always learning and experimenting with new technologies
 
 ---
 
@@ -90,47 +76,170 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Campaign Manager
+
+An AI-powered SaaS platform designed to help marketers create, organize, and manage marketing campaigns.
+
+**Highlights**
+
+* Campaign creation and management
+* Kanban-based campaign workflow
+* AI-generated marketing content
+* AI chat assistant
+* Prompt history and content generation workflows
+* Streaming AI responses
+* Authentication and protected routes
+
+**Tech Stack:** Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, OpenAI / Anthropic
+
+---
+
+### 🎫 Event Management Platform
+
+A full-stack event management platform for managing artists, promoters, agents, events, bookings, and event operations.
+
+**Highlights**
+
+* Role-based dashboards for Artists, Promoters, and Agents
+* Event creation and booking workflows
+* Running Order management
+* Guest List, Travel Info, Transportation, and Venue management
+* Printer and Print Agent management
+* API key management
+* Subscription and invoice management
+* Stripe integration
+* Dashboard analytics
+
+**Tech Stack:** React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, RTK Query, Stripe
+
+---
+
+## 💼 Experience
+
+### Frontend Developer — Softvence Alpha
+
+**Frontend Development**
+
+Worked on modern web applications and business platforms, contributing to both new features and existing product development.
+
+**Responsibilities & Contributions**
+
+* Built responsive and reusable UI components using React and Next.js
+* Developed complex dashboards and business workflows
+* Integrated REST APIs and managed application state
+* Implemented forms, validation, filtering, search, and data tables
+* Worked with authentication and role-based application flows
+* Integrated third-party services and payment workflows
+* Collaborated with backend developers and designers
+* Maintained and improved existing application architecture
+
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, RTK Query, Node.js, REST APIs
+
+---
+
+### Frontend Developer — Local & Client Projects
+
+Worked with local clients on custom web applications and business solutions, taking responsibility for frontend development and UI implementation.
+
+#### 🖥️ Deed Management Desktop Application
+
+A desktop application for managing deed-related workflows and records.
+
+**Contributions**
+
+* Developed application interfaces and reusable components
+* Implemented forms and data management workflows
+* Integrated frontend functionality with backend APIs
+* Built responsive and user-friendly interfaces
+* Worked on application-specific business logic and workflows
+
+**Technologies:** React, TypeScript, API Integration
+
+#### 📝 Online Exam Taking System
+
+A web-based examination platform designed for conducting and managing online exams.
+
+**Contributions**
+
+* Built exam-taking interfaces
+* Implemented question navigation and answer selection
+* Developed timer-based examination workflows
+* Integrated APIs for exam and question data
+* Created responsive interfaces for different screen sizes
+* Implemented reusable components for examination workflows
+
+**Technologies:** React, TypeScript, REST APIs, Tailwind CSS
+
+---
+
+## 🧠 Current Focus
 
 * Data Structures & Algorithms
+* Competitive Programming & Problem Solving
 * Computer Science Fundamentals
 * System Design & Software Architecture
 * Advanced Backend Development
 * AI Application Development
-* LLM APIs, Streaming & AI-powered workflows
-
----
-
-## 💡 What I Like Building
-
-* 🤖 AI-powered SaaS applications
-* 📊 Complex dashboards and business platforms
-* 🔄 Real-time and streaming applications
-* 🧩 Scalable full-stack applications
-* 🔐 Authentication and secure APIs
-* 💳 Payment and third-party integrations
-* ⚡ High-performance and responsive web experiences
+* LLM APIs and Streaming AI
 
 <br/>
 
 <!--- stats & Trophy (start) --> 
 <p align="center"> <!--- stats (start) --> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi8430&theme=dark&show_icons=true&count_private=true" /> <br></br> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi8430&theme=dark&hide_border=false" /> </td> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mehedi8430&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table> <!--- stats (end) --> <!--- trophy (start) --> <div align=center> <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mehedi8430&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a> </div> <!--- trophy (start) --> </p> <!--- stats (end) --> <!-- Connect with me --> <!--h2 without bottom border--> 
 
-<div id="user-content-toc"> 
-  <ul align="center"> <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary> </ul> 
-</div> 
-<!--icons and links--> 
-<p align="center"> 
-  <a href="mailto:mhrdev77@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="22568558" height="30" width="40" /></a> 
-  <!--Linkedin-->
-  <a href="https://www.linkedin.com/in/mehedi8430/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Mehedi Hasan" height="30" width="40" /></a> 
-  
-  <a href="https://twitter.com/mdmehed84989935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmehed84989935" height="30" width="40" /></a> 
-  <a href="https://mehedihasanrakib.vercel.app/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/000/424/425/original/vector-web-icon.jpg" alt="22568558" height="30" width="40" /></a> 
-  <a href="https://www.facebook.com/profile.php?id=100094921012536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="22568558" height="30" width="40" /> </a> 
-  <a href="https://discordapp.com/users/mehedi0328" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> </p> <!--profile visit count--> <div align="center"> [![](https://visitcount.itsvg.in/api?id=mehedi8430&icon=3&color=6)](https://visitcount.itsvg.in) </div> 
-
-<!--horizontal divider(gradiant)--> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:mhrdev77@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mehedi8430/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://twitter.com/mdmehed84989935" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"
+      alt="Twitter"
+    />
+  </a>
+
+  <a href="https://mehedihasanrakib.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100094921012536" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+
+  <a href="https://discordapp.com/users/mehedi0328" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
+
+</p>
+
+<!-- horizontal divider -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
