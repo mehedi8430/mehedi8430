@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma • AI
+  React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma • AI Integrations
 </p>
 
 ---
@@ -51,18 +51,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat\&logo=express\&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat)
+![Supabase](https://img.shields.io/badge/-REST_API-02569B?style=flat)
 
 ### Database & ORM
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
-
-### AI & Integrations
-
-![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat\&logo=stripe\&logoColor=white)
 
 ### Tools & Workflow
 
@@ -92,27 +87,7 @@ An AI-powered SaaS platform designed to help marketers create, organize, and man
 * Streaming AI responses
 * Authentication and protected routes
 
-**Tech Stack:** Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, OpenAI / Anthropic
-
----
-
-### 🎫 Event Management Platform
-
-A full-stack event management platform for managing artists, promoters, agents, events, bookings, and event operations.
-
-**Highlights**
-
-* Role-based dashboards for Artists, Promoters, and Agents
-* Event creation and booking workflows
-* Running Order management
-* Guest List, Travel Info, Transportation, and Venue management
-* Printer and Print Agent management
-* API key management
-* Subscription and invoice management
-* Stripe integration
-* Dashboard analytics
-
-**Tech Stack:** React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, RTK Query, Stripe
+**Tech Stack:** Next.js, TypeScript, Node.js, Express, PostgreSQL, Prisma, Anthropic
 
 ---
 
@@ -133,9 +108,8 @@ Worked on modern web applications and business platforms, contributing to both n
 * Worked with authentication and role-based application flows
 * Integrated third-party services and payment workflows
 * Collaborated with backend developers and designers
-* Maintained and improved existing application architecture
 
-**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, RTK Query, Node.js, REST APIs
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, RTK Query
 
 ---
 
@@ -155,7 +129,7 @@ A desktop application for managing deed-related workflows and records.
 * Built responsive and user-friendly interfaces
 * Worked on application-specific business logic and workflows
 
-**Technologies:** React, TypeScript, API Integration
+**Technologies:** Electron.js, React, JavaScript, API Integration, Material UI
 
 #### 📝 Online Exam Taking System
 
@@ -170,7 +144,7 @@ A web-based examination platform designed for conducting and managing online exa
 * Created responsive interfaces for different screen sizes
 * Implemented reusable components for examination workflows
 
-**Technologies:** React, TypeScript, REST APIs, Tailwind CSS
+**Technologies:** React, JavaScript, REST APIs integration, Tailwind CSS, Shad/cn
 
 ---
 
